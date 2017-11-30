@@ -6,7 +6,7 @@ import ogr
 host = 'localhost'
 database = 'andy'
 port = '5432'
-user = ''
+user = 'andy'
 password = ''
 
 try:
